@@ -1,0 +1,16 @@
+Laboratorio 6: ETL - P1
+El propósito de este proyecto es entender la practica de ETL.
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/jesusgarciaabreu/ETL-P1.git
+   cd ETL-P1
+   
+2. Crea y activa un ambiente virtual (opcional):
+    python -m venv .env
+    source .env/bin/activate  # En macOS/Linux
+    .env\Scripts\activate     # En Windows
+
+3. Instala las dependencias:
+    pip install -r requirements.txt
